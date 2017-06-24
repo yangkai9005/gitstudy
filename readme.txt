@@ -8,5 +8,4 @@ just update readme.txt
 check for upadate new
 restore after commit
 now commit
-test merger
-11
+
