@@ -5,5 +5,6 @@ Git tracks changes of files
 Creating a new branch is quick
 Creatiing a new branch is quick AND simple
 just update readme.txt
+pull
+yktest
 check for upadate new
-
