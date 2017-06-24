@@ -6,4 +6,5 @@ Creating a new branch is quick
 Creatiing a new branch is quick AND simple
 just update readme.txt
 check for upadate new
-test
+restore after commit
+now commit
